@@ -1,4 +1,3 @@
-import React from 'react'
 import StepperChild from './StepperChild'
 import styles from './styles.module.scss';
 import StepperValue from './StepperValue';

@@ -1,5 +1,3 @@
-import React, { createContext, useRef, useState } from 'react'
-import styles from './styles.module.scss';
 import Buttons from './Buttons/Buttons';
 import Stepper from './Stepper/Stepper';
 import History from './History/History';

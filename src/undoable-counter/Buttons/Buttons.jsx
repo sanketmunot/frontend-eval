@@ -1,4 +1,3 @@
-import React from 'react'
 import styles from './styles.module.scss';
 import { useDispatch, useSelector } from 'react-redux';
 import { redo, undo } from '../counterSlice';
