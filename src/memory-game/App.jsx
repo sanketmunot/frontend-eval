@@ -1,5 +1,4 @@
 import { createContext, useRef, useState } from 'react'
-import './App.css'
 import GameBoard from './GameBoard/GameBoard'
 
 function shuffleArray(array) {
